@@ -15,7 +15,7 @@ This repository contains an implementation of various graph algorithms for Direc
 ### **How to Run:**
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/Acyclic-Graph-and-it-s-Operations.git
+   git clone https://github.com/surapaneni-hari/Acyclic-Graph-and-it-s-Operations.git
    ```
 2. Navigate into the project directory:
    ```bash

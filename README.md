@@ -9,7 +9,7 @@ This repository contains an implementation of various graph algorithms for Direc
 # File:
 - `acyclic_graph.c`: Contains the full implementation of the graph data structure and the associated algorithms.
 
-### **Technologies Used:
+### Technologies Used:
 - **C Programming Language**
 
 ### **How to Run:**
@@ -29,7 +29,3 @@ This repository contains an implementation of various graph algorithms for Direc
    ```bash
    ./graph_operations
    ```
-
----
-
-This description gives potential collaborators a clear idea of what the project is about and how they can interact with it. You can now use this description while setting up the new repository.
